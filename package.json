@@ -1,0 +1,10 @@
+{
+  "name": "devblog",
+  "version": "1.0.0",
+  "description": "A minimal WordPress theme for dev blog",
+  "main": "null",
+  "repository": "#",
+  "author": "Sabbir Hasan",
+  "license": "GPLv3",
+  "private": false
+}
